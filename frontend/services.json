@@ -1,0 +1,19 @@
+{
+    "services": [
+        {
+            "bgImage": "bg-car-rental",
+            "serviceType": "Car Rentals",
+            "iconType": "FaCar"
+        },
+        {
+            "bgImage": "bg-hotels",
+            "serviceType": "Hotels",
+            "iconType": "FaHotel"
+        },
+        {
+            "bgImage": "bg-travel-packages",
+            "serviceType": "Travel Packages",
+            "iconType": "FaUmbrellaBeach"
+        }
+    ]
+}
